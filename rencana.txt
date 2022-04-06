@@ -1,4 +1,4 @@
 hello ananta...!
-*a
-*b
-*c
+*angular
+*react
+*javascript
