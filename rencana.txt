@@ -2,3 +2,5 @@ hello ananta...!
 *angular
 *react
 *javascript
+*phyton
+*ci
