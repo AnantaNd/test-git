@@ -1,3 +1,4 @@
 hello ananta...!
-*
-*
+*a
+*b
+*c
